@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LiuApiDemo</string>
+
+    <string name="btn_start_green_dao">Go to greenDao</string>
+    <string name="btn_start_lite_orm">Go to LiteOrm</string>
+    <string name="btn_start_lite_orm_other">Go to LiteOrm Other</string>
+    <string name="btn_start_green_dao_other">Go to GreenDao Other</string>
+    <string name="btn_event_bus">Event Bus</string>
+    <string name="btn_simple_recycler_view">简单RecyclerView</string>
+    <string name="btn_person_recycler_view">PersonRecyclerView</string>
+    <string name="btn_complex_recycler_view">复杂RecyclerView</string>
+    <string name="btn_auto_value_recycler_view">AutoValue RecyclerView</string>
+</resources>
